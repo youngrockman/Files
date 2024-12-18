@@ -1,0 +1,10 @@
+C:\Users\class_student\source\repos\Files\Files\bin\Debug\Files.exe.config
+C:\Users\class_student\source\repos\Files\Files\bin\Debug\Files.exe
+C:\Users\class_student\source\repos\Files\Files\bin\Debug\Files.pdb
+C:\Users\class_student\source\repos\Files\Files\obj\Debug\Files.csproj.AssemblyReference.cache
+C:\Users\class_student\source\repos\Files\Files\obj\Debug\Files.csproj.CoreCompileInputs.cache
+C:\Users\class_student\source\repos\Files\Files\obj\Debug\Files.exe
+C:\Users\class_student\source\repos\Files\Files\obj\Debug\Files.pdb
+C:\Users\class_student\source\repos\Files\Files\bin\Debug\Aspose.Words.dll
+C:\Users\class_student\source\repos\Files\Files\bin\Debug\Aspose.Words.xml
+C:\Users\class_student\source\repos\Files\Files\obj\Debug\Files.csproj.Up2Date
